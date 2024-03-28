@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Hector-hub
+- 👋 Hi, I’m Héctor D. Reyes
 - 👀 I’m interested in web programming
-- 🌱 I’m currently learning react 
-- 📫 How to reach me: https://hecrey.000webhostapp.com/
+- 🚀 I'm currently starting an open source project: [Mapscrapers](https://mapscrapers.onrender.com/).
+- 📫 How to reach me:  [Hecrey](https://hecrey.000webhostapp.com/).
 
 <!---
 Hector-hub/Hector-hub is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
