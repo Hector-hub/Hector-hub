@@ -2,8 +2,8 @@
 - 👀 I’m interested in web programming  
 - 📫 How to reach me: [Hecrey](https://www.instagram.com/_hecrey/).  
 - 🚀 Creator of:  
-  - [Combinados](https://velvety-pasca-9a2e5c.netlify.app/)  
-  - [Counter Click The Game](https://counterclick-thegame.web.app)  
+  - [CombinaDos](https://velvety-pasca-9a2e5c.netlify.app/)  
+  - [Counter Click - The Game](https://counterclick-thegame.web.app)  
   - [PerdidosYa!](http://perdidosya.web.app)  
   - [Concentraciones UNIBE](https://concentration-pathways.netlify.app)  
 
